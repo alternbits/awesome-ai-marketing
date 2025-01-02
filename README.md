@@ -156,10 +156,8 @@ A curated list of AI tools and resources for marketing professionals. This repos
 
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**  
   A curated list of marketing tools, strategies, and resources for marketers.
-
 - **[MarketingToolsList](https://marketingtoolslist.com)**  
   A comprehensive platform that lists the best marketing tools for various digital marketing needs.
-
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
   A collection of curated AI tools for various use cases, including marketing, business, and technology.
 
