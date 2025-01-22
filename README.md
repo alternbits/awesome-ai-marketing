@@ -2,6 +2,9 @@
 
 A curated list of AI tools and resources for marketing professionals. This repository is designed to help marketers discover and implement AI-powered solutions to enhance their marketing efforts.
 
+Sponsored by **[There's An AI](https://thenextaidirectory.com/go/theres-an-ai)**
+
+
 ## Table of Contents
 
 - [Content Creation](#content-creation)
