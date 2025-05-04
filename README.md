@@ -2,6 +2,7 @@
 
 A curated list of AI tools and resources for marketing professionals. This repository is designed to help marketers discover and implement AI-powered solutions to enhance their marketing efforts.
 
+By **[Altern](https://altern.ai)**
 
 
 ## Table of Contents
