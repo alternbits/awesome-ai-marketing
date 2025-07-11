@@ -33,8 +33,12 @@ By **[Altern](https://altern.ai)**
 - **[Rytr](https://rytr.me)**  
   AI writing tool that helps generate content for social media posts, emails, and websites, reducing time and effort for content creation.
 
-- **[Ink for All](https://inkforall.com)**  
+- **[Ink for All](https://inkforall.com)**
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
+
+- **[Serplux](https://serplux.com)**
+  An AI tool that aims to improve written content for better SEO performance and audience engagement.
+
 
 ## Personalization
 
@@ -137,6 +141,10 @@ By **[Altern](https://altern.ai)**
 
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
+
+- **[Serplux](https://serplux.com)**
+  A complete SEO tool with AI insights for keyword research, competitor analysis, and website improvement.
+  
 
 ## Customer Support
 
