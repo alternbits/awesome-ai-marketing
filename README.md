@@ -163,6 +163,8 @@ By **[Altern](https://altern.ai)**
   A comprehensive platform that lists the best marketing tools for various digital marketing needs.
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
   A collection of curated AI tools for various use cases, including marketing, business, and technology.
+- **[Adapt or Die](https://adaptordie.io)**  
+  Independent editorial covering agentic commerce, AI agents in ecommerce, and digital transformation. Sharp analysis, no AI slop.
 
 ## Contributing
 
