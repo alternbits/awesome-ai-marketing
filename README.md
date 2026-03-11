@@ -161,8 +161,10 @@ By **[Altern](https://altern.ai)**
   A curated list of marketing tools, strategies, and resources for marketers.
 - **[MarketingToolsList](https://marketingtoolslist.com)**  
   A comprehensive platform that lists the best marketing tools for various digital marketing needs.
-- **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
+- **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**
   A collection of curated AI tools for various use cases, including marketing, business, and technology.
+- **[AI Marketing Compare](https://aimarketingcompare.com)**
+  Compare 55+ AI marketing tools across 8 categories with features, pricing, and benchmarks.
 
 ## Contributing
 
