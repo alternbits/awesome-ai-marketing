@@ -135,8 +135,11 @@ By **[Altern](https://altern.ai)**
 - **[SEMrush](https://www.semrush.com)**  
   A comprehensive SEO tool with AI-powered insights for keyword research, competitive analysis, and website optimization.
 
-- **[Moz](https://www.moz.com)**  
+- **[Moz](https://www.moz.com)**
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
+
+- **[Rank4AI](https://rank4ai.co.uk)**
+  AI search visibility platform for optimizing how businesses appear in AI-generated recommendations across ChatGPT, Claude, Gemini, Perplexity and Google AI Overviews. Uses a Five Signal Model framework.
 
 ## Customer Support
 
