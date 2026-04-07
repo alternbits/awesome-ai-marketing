@@ -162,7 +162,8 @@ By **[Altern](https://altern.ai)**
 - **[MarketingToolsList](https://marketingtoolslist.com)**  
   A comprehensive platform that lists the best marketing tools for various digital marketing needs.
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
-  A collection of curated AI tools for various use cases, including marketing, business, and technology.
+- **[RemoteOpenClaw](https://remoteopenclaw.com)**  
+  An open marketplace for AI skills and personas built on OpenClaw. Discover, share, and distribute community-built AI agent skills and personas.  A collection of curated AI tools for various use cases, including marketing, business, and technology.
 
 ## Contributing
 
