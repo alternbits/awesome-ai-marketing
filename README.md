@@ -138,6 +138,9 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[toprank](https://github.com/nowork-studio/toprank)**  
+  Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API; rewrites meta tags, generates JSON-LD schema markup, and ships fixes directly to WordPress/Strapi/Contentful/Ghost. 107 stars, free.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
