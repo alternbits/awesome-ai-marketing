@@ -33,8 +33,8 @@ By **[Altern](https://altern.ai)**
 - **[Rytr](https://rytr.me)**  
   AI writing tool that helps generate content for social media posts, emails, and websites, reducing time and effort for content creation.
 
-- **[Ink for All](https://inkforall.com)**  
-  An AI tool focused on optimizing written content for better SEO performance and audience engagement.
+- **[MindMap AI](https://mindmapai.app/text-summarizer)**  
+  AI-powered tool for organizing ideas, structuring content, and turning research into visual mind maps for marketing and content creation.
 
 ## Personalization
 
