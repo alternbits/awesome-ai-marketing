@@ -70,6 +70,9 @@ By **[Altern](https://altern.ai)**
 - **[UpLead](https://www.uplead.com)**  
   A B2B lead generation platform with AI-powered data search to help marketers generate high-quality leads.
 
+- **[Scrupp](https://scrupp.com)**  
+  LinkedIn and Sales Navigator scraper with AI-assisted waterfall enrichment across multiple providers. Returns SMTP-verified emails and phone numbers from profile URLs, pay-per-lead pricing.
+
 ## Email Marketing
 
 - **[Seventh Sense](https://www.theseventhsense.com)**  
