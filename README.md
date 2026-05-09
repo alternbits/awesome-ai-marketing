@@ -15,6 +15,7 @@ By **[Altern](https://altern.ai)**
 - [Analytics](#analytics)
 - [SEO & Search Optimization](#seo--search-optimization)
 - [Customer Support](#customer-support)
+- [Marketing Strategy & Planning](#marketing-strategy--planning)
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [License](#license)
@@ -154,6 +155,10 @@ By **[Altern](https://altern.ai)**
 
 - **[Kustomer](https://www.kustomer.com)**  
   AI-powered customer service platform that offers automated workflows and smart conversation routing to optimize customer experiences.
+
+## Marketing Strategy & Planning
+
+- **[Embercore](https://github.com/embercore-labs/embercore)** — Open-source AI CMO that generates complete marketing plans, brand positioning, and go-to-market playbooks from product context using LLMs. Self-hostable, BYOK.
 
 ## Resources
 
