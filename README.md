@@ -163,6 +163,8 @@ By **[Altern](https://altern.ai)**
   A comprehensive platform that lists the best marketing tools for various digital marketing needs.
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
   A collection of curated AI tools for various use cases, including marketing, business, and technology.
+- **[Awesome AI Startups — Marketing, SEO & Sales](https://github.com/nowork-studio/awesome-ai-startups#marketing-seo-sales)**  
+  Curated indie/bootstrapped AI marketing, SEO, and sales tools from independent founders.
 
 ## Contributing
 
