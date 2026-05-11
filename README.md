@@ -138,6 +138,9 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[TinyTools](https://tinytools-smoky.vercel.app/)**  
+  A free, open-source collection of browser-based AI and SEO utilities for marketers — SEO meta tag generator, AI robots.txt generator (controls AI crawlers like GPTBot and Claude), OG image generator, favicon generator, and AI content disclosure generator (EU AI Act Article 50 compliant). All tools run client-side with no signup.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
