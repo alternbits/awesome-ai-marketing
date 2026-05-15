@@ -7,6 +7,7 @@ By **[Altern](https://altern.ai)**
 
 ## Table of Contents
 
+- [WebCoreLab](https://webcorelab.com) — AI-powered digital agency. GEO/AEO optimization for ChatGPT, Claude, Perplexity. 272-check SEO audit, content factory with anti-AI-detection humanizer, CRO.
 - [Content Creation](#content-creation)
 - [Personalization](#personalization)
 - [Lead Generation](#lead-generation)
