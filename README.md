@@ -27,6 +27,9 @@ By **[Altern](https://altern.ai)**
 - **[Copy.ai](https://www.copy.ai)**  
   A creative assistant that generates marketing copy for blogs, emails, and advertisements using artificial intelligence.
 
+- **[igly.ai](https://igly.ai)**  
+  AI image editing platform for marketing visuals, with background removal, inpainting, upscaling, and generative fill for product and campaign assets.
+
 - **[Writesonic](https://www.writesonic.com)**  
   AI writing assistant that generates high-quality marketing content for various needs, including blog posts, landing pages, and more.
 
