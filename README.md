@@ -98,6 +98,9 @@ By **[Altern](https://altern.ai)**
 - **[Cortex](https://www.meetcortex.com)**  
   AI-driven platform that helps businesses optimize their social media strategy through image analysis and content performance insights.
 
+- **[igly.ai](https://igly.ai)**  
+  AI image editing platform for marketing visuals, with background removal, inpainting, upscaling, and generative fill. Demo: https://www.youtube.com/watch?v=HB2E1WZ12is
+
 - **[Roc Search](https://rocsearch.com)**  
   An AI-based search platform that enhances social media marketing by delivering relevant search results and campaign insights.
 
