@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit)**  
+  AI-driven animated b-roll overlay renderer for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok). Paste your script into Claude Code / Cursor / Codex, the MCP server writes the scene spec and renders an mp4. Free, MIT, local.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
