@@ -138,6 +138,9 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[Revolead](https://revolead.ai)**  
+  Done-for-you AI search optimization (GEO) and B2B lead generation. Maps buyer-intent prompts and builds the pages that win answers in ChatGPT, Perplexity, Gemini, and Google AI Overviews, tying AI visibility to qualified enquiries.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
