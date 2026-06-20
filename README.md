@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[igly.ai](https://igly.ai)**  
+  An AI image editor for marketing visuals and product photos, with background removal, inpainting, upscaling, and generative fill.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
