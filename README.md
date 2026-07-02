@@ -118,6 +118,9 @@ By **[Altern](https://altern.ai)**
 - **[Google Analytics](https://analytics.google.com)**  
   Google’s analytics platform with AI-powered insights to track website performance, user behavior, and marketing outcomes.
 
+- **[GetAppNiche](https://getappniche.com)**
+  AI-assisted App Store intelligence for indie iOS founders tracking revenue estimates, downloads, ASO keywords, ads, and reviews.
+
 - **[Hotjar](https://www.hotjar.com)**  
   AI-driven user behavior analytics tool that provides insights into how users interact with your website through heatmaps, session recordings, and surveys.
 
