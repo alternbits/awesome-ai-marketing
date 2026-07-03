@@ -155,6 +155,8 @@ By **[Altern](https://altern.ai)**
 - **[Kustomer](https://www.kustomer.com)**  
   AI-powered customer service platform that offers automated workflows and smart conversation routing to optimize customer experiences.
 
+- **[ReputeMap Review Response Generator](https://reputemap.com/tools/review-response-generator)** - Free AI-assisted Google review reply generator with tone and star-rating controls for customer support and local marketing teams.
+
 ## Resources
 
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**  
