@@ -137,6 +137,7 @@ By **[Altern](https://altern.ai)**
 
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
+- **[Screpy](https://screpy.com/)** - AI SEO platform for technical audits, keyword research, rank tracking, Core Web Vitals, uptime monitoring, and reporting.
 
 ## Customer Support
 
