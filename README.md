@@ -121,6 +121,9 @@ By **[Altern](https://altern.ai)**
 - **[Hotjar](https://www.hotjar.com)**  
   AI-driven user behavior analytics tool that provides insights into how users interact with your website through heatmaps, session recordings, and surveys.
 
+- **[Brand AI Visibility](https://brandaivisibility.com)**  
+  Free AI brand visibility tool that checks how 9 AI models (ChatGPT, Perplexity, Gemini, Claude) recognize and describe your brand. Includes visibility scoring, sentiment analysis, and per-model breakdown.
+
 ## SEO & Search Optimization
 
 - **[Surfer](https://www.surferseo.com)**  
