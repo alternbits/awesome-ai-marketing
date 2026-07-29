@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[Hadrian](https://hadrian.marketing)**  
+  An AI marketing operating system for small marketing teams, with brand-aware agents across content, paid, SEO, PR, and lifecycle in one shared workspace.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
