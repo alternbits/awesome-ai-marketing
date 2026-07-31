@@ -95,6 +95,9 @@ By **[Altern](https://altern.ai)**
 - **[Adext AI](https://www.adext.ai)**  
   Uses AI to automate digital ad campaigns, optimizing ad spend and improving conversion rates across various platforms.
 
+- **[AdRoast](https://www.adroast.ai)**  
+  AI ad generator that creates image and video ads from presets, then scores creatives before you spend. Free [Meta scorecard + TikTok hooks kit](https://github.com/Mustak4/adroast-creative-kit).
+
 - **[Cortex](https://www.meetcortex.com)**  
   AI-driven platform that helps businesses optimize their social media strategy through image analysis and content performance insights.
 
