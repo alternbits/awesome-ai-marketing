@@ -25,6 +25,8 @@ By **[Altern](https://altern.ai)**
   An AI-powered content generation tool that assists with creating blog posts, social media copy, and marketing content. It accelerates content creation while maintaining high quality.
 
 - **[Copy.ai](https://www.copy.ai)**  
+- **[ListingAI](https://lijustin655.github.io/f1-listingai)**  
+  Free AI listing generator for Amazon & TikTok Shop sellers. Creates optimized product titles, bullet points, and descriptions in 30 seconds. No signup required.
   A creative assistant that generates marketing copy for blogs, emails, and advertisements using artificial intelligence.
 
 - **[Writesonic](https://www.writesonic.com)**  
