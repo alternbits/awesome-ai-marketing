@@ -138,6 +138,9 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[NotFair](https://github.com/nowork-studio/NotFair)**  
+  Open-source (MIT) Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Covers keyword research, meta tags, schema markup, content writing, and paid-ads audits. Connects to live data through the Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
