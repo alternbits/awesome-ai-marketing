@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[AI Pin Maker](https://aipinmaker.com)**  
+  All-in-one AI studio for visual marketing assets — generate enamel pins, badges, product mockups, social posts, and short promo videos across 28+ AI models (Seedream, Gemini 3 Pro, Wan 2.7, Seedance, Kling, Veo 3) in a multilingual workspace (en/zh/ja/ko/pt-BR/ar).
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
