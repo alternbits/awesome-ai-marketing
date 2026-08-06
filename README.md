@@ -104,6 +104,9 @@ By **[Altern](https://altern.ai)**
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
 
+- **[AdDogs](https://www.addogs.ai)**  
+  AI-powered ad creative generator for e-commerce brands. Clone any winning ad design, swap in your product photo, and apply your brand identity in 10 seconds. 14,000+ curated ad examples.
+
 ## Analytics
 
 - **[PaveAI](https://www.paveai.com)**  
