@@ -101,8 +101,11 @@ By **[Altern](https://altern.ai)**
 - **[Roc Search](https://rocsearch.com)**  
   An AI-based search platform that enhances social media marketing by delivering relevant search results and campaign insights.
 
-- **[Replai](https://www.replai.com)**  
+- **[Replai](https://www.replai.com)**
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
+
+- **[Facebook Ad Builder](https://github.com/iscale-llc/iscale-facebook-ad-builder)**
+  Open-source AI-powered Facebook ad platform covering the full workflow from competitor research to ad copy generation, image creation, and campaign management. Built with FastAPI, React, and Claude.
 
 ## Analytics
 
