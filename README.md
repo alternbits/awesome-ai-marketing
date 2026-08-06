@@ -104,6 +104,9 @@ By **[Altern](https://altern.ai)**
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
 
+- **[Sparkiz.ai](https://sparkiz.ai)**  
+  AI video-ad generator that turns a product link into a UGC-style ad with a realistic AI avatar, voiceover and captions for TikTok, Reels and Meta.
+
 ## Analytics
 
 - **[PaveAI](https://www.paveai.com)**  
