@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[SEO Booster](https://www.sgeo.it.com)**  
+  Daily AI articles auto-published to your CMS with brand voice + audience persona matching, multi-language translation, and content repurposing into tweets, LinkedIn posts, podcast scripts, and video scripts.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
@@ -137,6 +140,9 @@ By **[Altern](https://altern.ai)**
 
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
+
+- **[SEO Booster](https://www.sgeo.it.com)**  
+  AI SEO autopilot that writes and auto-publishes daily articles to 13 CMS platforms with brand voice learning, audience persona analysis, GEO/AEO optimization for ChatGPT, Claude, and Gemini, 87+ technical SEO checks, and 51-language translation.
 
 ## Customer Support
 
