@@ -162,6 +162,8 @@ By **[Altern](https://altern.ai)**
 - [Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation) - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
   A collection of curated AI tools for various use cases, including marketing, business, and technology.
+- **[Adapt or Die](https://adaptordie.io)**  
+  Independent editorial covering agentic commerce, AI agents in ecommerce, and digital transformation. Sharp analysis, no AI slop.
 
 ## Contributing
 
