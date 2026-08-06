@@ -121,6 +121,9 @@ By **[Altern](https://altern.ai)**
 - **[Hotjar](https://www.hotjar.com)**  
   AI-driven user behavior analytics tool that provides insights into how users interact with your website through heatmaps, session recordings, and surveys.
 
+- **[Querri](https://querri.com)**  
+  Conversational analytics platform that unifies marketing data, customer feedback, and performance metrics into repeatable, automated analysis workflows through natural language.
+
 ## SEO & Search Optimization
 
 - **[Surfer](https://www.surferseo.com)**  
