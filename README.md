@@ -21,6 +21,9 @@ By **[Altern](https://altern.ai)**
 
 ## Content Creation
 
+- **[CreatorSkills](https://creatorskills.co)**  
+  A marketplace of 30+ downloadable AI skills for content creators — covering YouTube scripting, sponsorship analysis, content repurposing, and audience growth workflows for Claude and other AI tools.
+
 - **[Jasper AI](https://www.jasper.ai)**  
   An AI-powered content generation tool that assists with creating blog posts, social media copy, and marketing content. It accelerates content creation while maintaining high quality.
 
