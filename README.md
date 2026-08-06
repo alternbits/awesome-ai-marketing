@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[Autoresearch Playbook](https://autoresearchplaybook.com)**  
+  A toolkit of fill-in-the-blank prompt templates plus a guide for running an AI "keep-or-revert" loop that tests and optimizes marketing copy — cold emails, landing pages, and pricing — against real conversion data.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
