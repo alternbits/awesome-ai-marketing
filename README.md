@@ -12,6 +12,7 @@ By **[Altern](https://altern.ai)**
 - [Lead Generation](#lead-generation)
 - [Email Marketing](#email-marketing)
 - [Social Media Advertising](#social-media-advertising)
+- [Marketing Automation Agencies](#marketing-automation-agencies)
 - [Analytics](#analytics)
 - [SEO & Search Optimization](#seo--search-optimization)
 - [Customer Support](#customer-support)
@@ -103,6 +104,11 @@ By **[Altern](https://altern.ai)**
 
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
+
+## Marketing Automation Agencies
+
+- **[Great AI Marketing](https://greataimarketing.com)**  
+  An agency that provides AI-powered marketing services to automate campaigns, personalize customer engagement, and drive growth for businesses.
 
 ## Analytics
 
