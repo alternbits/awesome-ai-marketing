@@ -36,6 +36,8 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[ImagineClip](https://imagineclip.com)** — AI video generator for avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
