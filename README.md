@@ -138,6 +138,9 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[AnswerLens](https://app.sfdj.net/)**
+  Audits the public evidence layer of a B2B SaaS website, then turns gaps across pricing, proof, docs, comparison, trust, schema, and llms.txt into a source-backed fix plan.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
