@@ -162,6 +162,8 @@ By **[Altern](https://altern.ai)**
 - [Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation) - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
   A collection of curated AI tools for various use cases, including marketing, business, and technology.
+- **[Ecommerce ChatGPT Prompts](https://www.xpay.sh/prompts/)**  
+  A free, copy-and-run ChatGPT prompt library for online stores — product descriptions, ads, email, and SEO across 43 product categories.
 
 ## Contributing
 
