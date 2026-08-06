@@ -138,6 +138,15 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[awesome-aeo-seo](https://github.com/discoveredlabs/awesome-aeo-seo)**  
+  Curated research and guides for answer engine optimisation and generative engine optimisation.
+
+- **[awesome-aeo-seo-tools](https://github.com/discoveredlabs/awesome-aeo-seo-tools)**  
+  Free and open-source tools for AEO auditing, AI visibility monitoring, and content scoring.
+
+- **[awesome-aeo-seo-agents](https://github.com/discoveredlabs/awesome-aeo-seo-agents)**  
+  Agent frameworks and MCP servers for automating AI search optimisation workflows.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
