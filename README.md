@@ -67,8 +67,11 @@ By **[Altern](https://altern.ai)**
 - **[ZoomInfo](https://www.zoominfo.com)**  
   A data-driven platform that leverages AI to help companies discover prospects and grow their businesses by providing accurate, actionable insights.
 
-- **[UpLead](https://www.uplead.com)**  
+- **[UpLead](https://www.uplead.com)**
   A B2B lead generation platform with AI-powered data search to help marketers generate high-quality leads.
+
+- **[Hanzi](https://github.com/hanzili/hanzi-in-chrome)**
+  Open-source AI agent for browser-based marketing. Skills for LinkedIn prospecting (find prospects, write personalized notes) and social posting from your real signed-in browser. Free, works with any AI coding agent. Setup: `npx hanzi-in-chrome setup`.
 
 ## Email Marketing
 
