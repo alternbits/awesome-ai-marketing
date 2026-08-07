@@ -104,6 +104,9 @@ By **[Altern](https://altern.ai)**
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
 
+- **[Autoposting](https://autoposting.ai)**  
+  AI social media manager that writes posts in your own voice, clips long video into short-form, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube.
+
 ## Analytics
 
 - **[PaveAI](https://www.paveai.com)**  
