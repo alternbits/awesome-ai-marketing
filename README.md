@@ -21,6 +21,9 @@ By **[Altern](https://altern.ai)**
 
 ## Content Creation
 
+- **[LinkedIn Marketing Skills](https://github.com/sergebulaev/linkedin-skills)**  
+  Open-source Claude Code and Codex skill bundle that drafts, humanizes, and schedules LinkedIn posts, comments, and replies using proven 2026 hook formulas. Part of a seven-platform social-media marketing family covering X, TikTok, Threads, Instagram, Facebook, and YouTube.
+
 - **[Jasper AI](https://www.jasper.ai)**  
   An AI-powered content generation tool that assists with creating blog posts, social media copy, and marketing content. It accelerates content creation while maintaining high quality.
 
