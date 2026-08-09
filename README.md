@@ -35,6 +35,8 @@ By **[Altern](https://altern.ai)**
 
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
+- **[RepurposeAI](https://repurposeai-v2.pages.dev)**  
+  AI-powered tool that transforms content into optimized formats for LinkedIn, Twitter, Instagram, and TikTok, streamlining multi-platform content creation.
 
 ## Personalization
 
