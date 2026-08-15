@@ -129,6 +129,9 @@ By **[Altern](https://altern.ai)**
 - **[Frase](https://www.frase.io)**  
   AI-driven content research and writing tool for SEO, helping marketers create optimized content that ranks well on search engines.
 
+- **[IdeaHunter](https://ideahunter.today)**  
+  AI research for buyer pain, market evidence, and demand-backed startup ideas before product or content bets.
+
 - **[Clearscope](https://www.clearscope.io)**  
   An AI-powered SEO tool for content optimization, helping marketers create well-researched content that ranks highly on search engines.
 
