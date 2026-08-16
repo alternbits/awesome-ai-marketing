@@ -35,6 +35,8 @@ By **[Altern](https://altern.ai)**
 
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
+- **[videos.social](https://videos.social/?utm_source=alternbits-awesome-ai-marketing&utm_medium=directory&utm_campaign=listing-wave-d)**  
+  Turns blog posts, PDFs, and prompts into editable faceless videos for marketers. Start free — 1 render included. Packs from $10. 1 credit = 1 render.
 
 ## Personalization
 
