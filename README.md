@@ -104,6 +104,8 @@ By **[Altern](https://altern.ai)**
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
 
+- **[AdMapix](https://www.admapix.com)** - AI ad creative intelligence platform for researching competitor advertising across mobile games, apps, and ecommerce, with creative pattern and market-signal analysis.
+
 ## Analytics
 
 - **[PaveAI](https://www.paveai.com)**  
