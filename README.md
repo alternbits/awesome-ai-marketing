@@ -70,6 +70,9 @@ By **[Altern](https://altern.ai)**
 - **[UpLead](https://www.uplead.com)**  
   A B2B lead generation platform with AI-powered data search to help marketers generate high-quality leads.
 
+- **[OctoLoops](https://octoloops.com)**  
+  Finds live Reddit and forum threads where a product is a genuine fit, scores them for spam risk, and drafts a personalized comment for the founder to review before posting.
+
 ## Email Marketing
 
 - **[Seventh Sense](https://www.theseventhsense.com)**  
