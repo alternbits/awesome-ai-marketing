@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[Advibly](https://advibly.com)**  
+  An AI ad-creative platform that generates on-brand image ads, UGC-style video ads, and talking-actor videos from a brand's identity and product context, in the app or from AI agents via MCP.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
