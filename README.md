@@ -21,6 +21,9 @@ By **[Altern](https://altern.ai)**
 
 ## Content Creation
 
+- **[BulkPublish](https://www.bulkpublish.com)**  
+  API and MCP server for AI agents to plan, review, schedule, publish, and analyze social media content across connected channels.
+
 - **[Jasper AI](https://www.jasper.ai)**  
   An AI-powered content generation tool that assists with creating blog posts, social media copy, and marketing content. It accelerates content creation while maintaining high quality.
 
