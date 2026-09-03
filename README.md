@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[Lunalisa](https://luna-lisa.art)**  
+  AI creative workspace that generates product photos, marketing posters, and white-background listing images from text or reference media, then extends approved stills into video across 13 image and 22 video models.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
