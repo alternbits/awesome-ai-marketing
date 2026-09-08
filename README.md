@@ -138,6 +138,9 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[LovedByAI](https://www.lovedby.ai)**  
+  A WordPress plugin for generative engine optimization that adds structured data and generates an llms.txt file, so site content can be surfaced and cited by AI assistants such as ChatGPT and Perplexity.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
