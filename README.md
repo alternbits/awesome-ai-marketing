@@ -138,6 +138,9 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[GeoBuddy](https://geobuddy.co)**  
+  AI visibility monitoring for generative engines: checks whether ChatGPT, Claude, Gemini and Perplexity mention your brand, then tracks mentions, rank and competitors over time. Free check without signup.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
