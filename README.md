@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[Writon](https://writon.co)**  
+  AI article writer that turns keywords into SEO blog posts with featured images and publishes them to WordPress by hand, on a schedule, or on autopilot.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
