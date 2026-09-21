@@ -104,6 +104,9 @@ By **[Altern](https://altern.ai)**
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
 
+- **[AdsTurbo](https://adsturbo.ai)**  
+  AI video ad generator that turns a product link or a reference ad into TikTok/Meta-ready video ads with AI UGC actors, ad-structure cloning and 35+ language translation.
+
 ## Analytics
 
 - **[PaveAI](https://www.paveai.com)**  
