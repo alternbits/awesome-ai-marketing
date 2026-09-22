@@ -33,6 +33,9 @@ By **[Altern](https://altern.ai)**
 - **[Rytr](https://rytr.me)**  
   AI writing tool that helps generate content for social media posts, emails, and websites, reducing time and effort for content creation.
 
+- **[shortshort](https://www.shortshort.io)**  
+  Turns one long video, a talk, a podcast or a webinar, into vertical 9:16 shorts. Clips end on a complete sentence, the crop follows the speaker, and every word is captioned.
+
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
