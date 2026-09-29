@@ -155,6 +155,9 @@ By **[Altern](https://altern.ai)**
 - **[Kustomer](https://www.kustomer.com)**  
   AI-powered customer service platform that offers automated workflows and smart conversation routing to optimize customer experiences.
 
+- **[Instant Reply](https://www.instantreply.co/)**  
+  AI sales agent for Instagram, WhatsApp Business, and Messenger DMs, with shared inbox, AI-assisted replies and lead follow-up.
+
 ## Resources
 
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**  
