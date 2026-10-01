@@ -70,6 +70,9 @@ By **[Altern](https://altern.ai)**
 - **[UpLead](https://www.uplead.com)**  
   A B2B lead generation platform with AI-powered data search to help marketers generate high-quality leads.
 
+- **[aiFetchly](https://www.aifetchly.com)**  
+  Open-source desktop AI agent for business automation — lead generation, knowledge library RAG, outreach, and scheduled workflows. Runs on Windows, macOS, Linux.
+
 ## Email Marketing
 
 - **[Seventh Sense](https://www.theseventhsense.com)**  
