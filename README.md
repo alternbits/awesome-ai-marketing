@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[AI eBook Pro](https://aiebookpro.com)**  
+  An AI eBook generator that turns one sentence into a complete eBook with chapters and a cover, exported as PDF, EPUB or DOCX. Useful for lead magnets and content offers.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
