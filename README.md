@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[WarmQuant](https://warmquant.com/)**  
+  AI-assisted English drafting that turns notes into editable content using a chosen writing angle, author voice, and target reader.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
