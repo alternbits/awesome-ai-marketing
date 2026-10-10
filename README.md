@@ -163,6 +163,9 @@ By **[Altern](https://altern.ai)**
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
   A collection of curated AI tools for various use cases, including marketing, business, and technology.
 
+- **[WeWorkBuddy](https://weworkbuddy.com/)**  
+  A topic-research workspace for AI content creators that indexes Hacker News, GitHub and publisher leads, retains source timestamps, and saves candidates as research tasks.
+
 ## Contributing
 
 Contributions to this repository are welcome! If you have a tool or resource related to AI marketing, feel free to open a pull request. Here are some ways you can contribute:
