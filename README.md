@@ -138,6 +138,9 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[MentionsAPI](https://mentionsapi.com)**  
+  Developer API for AI brand-visibility and GEO — track brand mentions, rank, sentiment, and citations across ChatGPT, Claude, Gemini, Perplexity and more AI answer engines.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
