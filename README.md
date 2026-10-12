@@ -122,7 +122,7 @@ By **[Altern](https://altern.ai)**
   AI-driven user behavior analytics tool that provides insights into how users interact with your website through heatmaps, session recordings, and surveys.
 
 - **[Arcmira: YouTube Transcript Search](https://arcmira.com)**  
-  Searches indexed YouTube transcripts for brand mentions, sponsors, and recommendations with timestamped source passages.
+  Searches indexed YouTube transcripts for brand mentions, sponsors, and recommendations with timestamped source passages. [API docs](https://arcmira.com/docs).
 
 ## SEO & Search Optimization
 
