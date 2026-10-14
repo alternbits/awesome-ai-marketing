@@ -87,6 +87,9 @@ By **[Altern](https://altern.ai)**
 - **[Moosend](https://www.moosend.com)**  
   AI-powered email marketing tool designed for creating and automating campaigns to increase engagement and conversions.
 
+- **[Warmerly](https://warmerly.com)**  
+  Email warmup and cold outreach with a unified inbox that flags likely leads, plus daily SPF, DKIM and DMARC checks.
+
 ## Social Media Advertising
 
 - **[Smartly.io](https://www.smartly.io)**  
