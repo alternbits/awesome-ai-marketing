@@ -138,6 +138,9 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[Pineprompt](https://pineprompt.com)**  
+  Paid AI-search visibility monitoring that tracks brand mentions, citations and share of voice across ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews/AI Mode, daily.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
