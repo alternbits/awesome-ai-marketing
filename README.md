@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[IdeaShot](https://ideashot-eight.vercel.app)**  
+  Turns one rough idea into platform-specific drafts for X, Xiaohongshu (小红书) and WeChat Moments plus a reusable AI prompt in a single pass. 1 free try, no signup.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
