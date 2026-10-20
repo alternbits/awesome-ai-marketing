@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[Seedream 5.5](https://seedream5-5.net/)**  
+  An AI image generator and editor for marketing visuals: create ad creatives, product shots and social graphics from text prompts, or edit existing photos with plain-language instructions while keeping products and characters consistent.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
