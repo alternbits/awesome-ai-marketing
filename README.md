@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[Pixwit](https://pixwit.ai)**  
+  An all-in-one AI creative platform for generating images, videos, and music from text or image prompts, useful for producing marketing visuals and short-form video content.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
