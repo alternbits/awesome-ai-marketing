@@ -70,6 +70,9 @@ By **[Altern](https://altern.ai)**
 - **[UpLead](https://www.uplead.com)**  
   A B2B lead generation platform with AI-powered data search to help marketers generate high-quality leads.
 
+- **[Appie](https://appie.run)**  
+  AI marketing stack that learns your brand from your URL, then runs LinkedIn engager tracking, Reddit reply drafting, X mentions, brand-voice articles, social scheduling, chatbots, influencer/UGC and email journeys from one place.
+
 ## Email Marketing
 
 - **[Seventh Sense](https://www.theseventhsense.com)**  
