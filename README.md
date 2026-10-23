@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[KiloPlume](https://kiloplume.com)**  
+  Editorial planning assistant that turns your business profile and the latest news into weekly topic ideas and detailed briefs.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
