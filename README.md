@@ -109,6 +109,9 @@ By **[Altern](https://altern.ai)**
 - **[PaveAI](https://www.paveai.com)**  
   Turns Google Analytics data into actionable insights using AI, helping marketers optimize their digital marketing efforts.
 
+- **[Quiet Lion](https://quietlionreport.com)**  
+  Monthly rankings of AI site visits and growth, with short research notes on what the traffic actually shows.
+
 - **[MonkeyLearn](https://www.monkeylearn.com)**  
   AI platform for text analysis, including sentiment analysis and keyword extraction, useful for analyzing customer feedback and reviews.
 
