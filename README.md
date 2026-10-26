@@ -157,6 +157,7 @@ By **[Altern](https://altern.ai)**
 
 ## Resources
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**  
   A curated list of marketing tools, strategies, and resources for marketers.
 - [Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation) - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
