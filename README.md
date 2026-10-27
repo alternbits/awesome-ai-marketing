@@ -123,6 +123,9 @@ By **[Altern](https://altern.ai)**
 
 ## SEO & Search Optimization
 
+- **[CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console)**  
+  Free remote MCP access for AI assistants to query owned-site Google Search Console and Bing Webmaster data; authentication required.
+
 - **[Surfer](https://www.surferseo.com)**  
   AI-powered SEO tool that helps optimize web pages by analyzing search engine ranking factors and providing actionable optimization suggestions.
 
