@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[makeaicreator](https://makeaicreator.com)**  
+  Design a consistent AI influencer from a plain-language persona and generate face-locked photos, voiceover videos, and product-placement clips for posts and ads.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
