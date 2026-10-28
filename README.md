@@ -148,6 +148,8 @@ By **[Altern](https://altern.ai)**
 
 - **[Drift](https://www.drift.com)**  
   AI-powered conversational marketing and sales platform, offering chatbots and live chat to automate customer support and increase engagement.
+- **[SwiftCall](https://swiftcall.org/ai-agents)**  
+  AI agents for small businesses that answer every call, qualify the caller, book appointments and follow up leads, with a handoff to staff for anything that needs a person.
 
 - **[Zendesk](https://www.zendesk.com)**  
   A popular customer support platform with AI-driven features for automating ticket routing and providing personalized support.
