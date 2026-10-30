@@ -163,6 +163,9 @@ By **[Altern](https://altern.ai)**
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
   A collection of curated AI tools for various use cases, including marketing, business, and technology.
 
+- **[AI Marketing Agents Guide](https://aimarketingagentsguide.com)**  
+  An independent guide to AI marketing agents: each platform's published price, where a team's voice and claim checks live, and whether the work arrives as a diff a person approves before it ships.
+
 ## Contributing
 
 Contributions to this repository are welcome! If you have a tool or resource related to AI marketing, feel free to open a pull request. Here are some ways you can contribute:
