@@ -70,6 +70,9 @@ By **[Altern](https://altern.ai)**
 - **[UpLead](https://www.uplead.com)**  
   A B2B lead generation platform with AI-powered data search to help marketers generate high-quality leads.
 
+- **[OpenSparta](https://opensparta.com/en/pricing)**  
+  A Telegram marketing workspace with a paid AI-ranked Lead Radar module for finding buying requests in selected communities.
+
 ## Email Marketing
 
 - **[Seventh Sense](https://www.theseventhsense.com)**  
