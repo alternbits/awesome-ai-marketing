@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[UpGrow Instagram Caption Generator](https://www.upgrow.com/free-instagram-tools/instagram-caption-generator)**  
+  Free AI tool that writes Instagram captions from a short description of the post.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
