@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[EverAlice AI](https://everalice.studio)**  
+  All-in-one AI studio for Etsy and digital-product sellers. From one artwork or idea it creates platform-specific listing copy and SEO tags for 25 marketplaces, studio mockups, print-ready files, listing slideshow videos, a launch marketing pack (promo images, captions, sale banners, content calendar) and a customer-ready delivery ZIP, with bulk runs of up to 100 products.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
