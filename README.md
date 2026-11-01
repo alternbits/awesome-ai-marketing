@@ -104,6 +104,9 @@ By **[Altern](https://altern.ai)**
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
 
+- **[AdVariq](https://advariq.com)**  
+  AI-powered ad creative platform for solo founders and marketing teams to clone high-converting ad styles, enhance visuals, and generate marketing assets.
+
 ## Analytics
 
 - **[PaveAI](https://www.paveai.com)**  
