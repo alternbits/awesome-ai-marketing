@@ -55,6 +55,9 @@ By **[Altern](https://altern.ai)**
 
 ## Lead Generation
 
+- **[Revenue Scout](https://revenuescout.ai/)**  
+  Uses AI to find sales leads on seven social platforms. You review and post reply drafts yourself. Free tier and paid plans.
+
 - **[Clearbit](https://www.clearbit.com)**  
   Provides real-time data intelligence to enrich leads, segment customers, and find high-potential prospects through AI-powered data insights.
 
@@ -122,6 +125,9 @@ By **[Altern](https://altern.ai)**
   AI-driven user behavior analytics tool that provides insights into how users interact with your website through heatmaps, session recordings, and surveys.
 
 ## SEO & Search Optimization
+
+- **[Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer)**  
+  Free MIT-licensed Claude Code plugin for SEO audits, content plans, schema markup and link checks.
 
 - **[Surfer](https://www.surferseo.com)**  
   AI-powered SEO tool that helps optimize web pages by analyzing search engine ranking factors and providing actionable optimization suggestions.
