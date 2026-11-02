@@ -121,6 +121,9 @@ By **[Altern](https://altern.ai)**
 - **[Hotjar](https://www.hotjar.com)**  
   AI-driven user behavior analytics tool that provides insights into how users interact with your website through heatmaps, session recordings, and surveys.
 
+- **[Vaneform](https://vaneform.com)**  
+  Free website traffic checker for monthly visits, traffic trends, sources, and growth leaderboards, with a hosted MCP for AI assistants.
+
 ## SEO & Search Optimization
 
 - **[Surfer](https://www.surferseo.com)**  
