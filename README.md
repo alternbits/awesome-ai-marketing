@@ -104,6 +104,9 @@ By **[Altern](https://altern.ai)**
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
 
+- **[Distribution](https://distribution.tech)**  
+  Plans paid launch distribution on X from one chat: reviewed creators your buyers follow, a fixed all in price per post, and proof for every post.
+
 ## Analytics
 
 - **[PaveAI](https://www.paveai.com)**  
