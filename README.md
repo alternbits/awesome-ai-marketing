@@ -106,6 +106,8 @@ By **[Altern](https://altern.ai)**
 
 ## Analytics
 
+- **[EarlyLore](https://earlylore.com)**  
+  Research workspace for founders: study real SaaS products, revenue signals and competitor page changes (pricing, positioning, features) with source and observation date kept next to each change.
 - **[PaveAI](https://www.paveai.com)**  
   Turns Google Analytics data into actionable insights using AI, helping marketers optimize their digital marketing efforts.
 
