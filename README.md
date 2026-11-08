@@ -104,6 +104,9 @@ By **[Altern](https://altern.ai)**
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
 
+- **[RemakeThat](https://remakethat.com)**  
+  AI tool that remakes winning TikTok videos into original faceless UGC-style ad creatives starring your AI creator, for affiliate sellers.
+
 ## Analytics
 
 - **[PaveAI](https://www.paveai.com)**  
