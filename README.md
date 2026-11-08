@@ -4,7 +4,6 @@ A curated list of AI tools and resources for marketing professionals. This repos
 
 By **[Altern](https://altern.ai)**
 
-
 ## Table of Contents
 
 - [Content Creation](#content-creation)
@@ -69,6 +68,9 @@ By **[Altern](https://altern.ai)**
 
 - **[UpLead](https://www.uplead.com)**  
   A B2B lead generation platform with AI-powered data search to help marketers generate high-quality leads.
+
+- **[Extremely Autonomous Agents](https://extremely.agency)**  
+  A free, open-source AI agency that runs on your own computer. Agents for sales, marketing, support and more work around the clock, build the tools they're missing and only ask you when you choose. Bring your own Claude, ChatGPT or local models.
 
 ## Email Marketing
 
