@@ -106,6 +106,9 @@ By **[Altern](https://altern.ai)**
 
 ## Analytics
 
+- **[SnapDataHub](https://snapdatahub.com/)**  
+  Public Snapchat creator data: profile lookup, Spotlight performance and subscribers, plus a free Spotlight earnings calculator.
+
 - **[PaveAI](https://www.paveai.com)**  
   Turns Google Analytics data into actionable insights using AI, helping marketers optimize their digital marketing efforts.
 
