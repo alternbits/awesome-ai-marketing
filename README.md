@@ -121,6 +121,9 @@ By **[Altern](https://altern.ai)**
 - **[Hotjar](https://www.hotjar.com)**  
   AI-driven user behavior analytics tool that provides insights into how users interact with your website through heatmaps, session recordings, and surveys.
 
+- **[Arcmira: YouTube Transcript Search](https://arcmira.com)**  
+  YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API docs](https://arcmira.com/docs).
+
 ## SEO & Search Optimization
 
 - **[Surfer](https://www.surferseo.com)**  
