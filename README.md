@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[Prompt Generator](https://trypromptgenerator.com)**  
+  A free prompt generator that writes prompts in the syntax of the AI tool you pick, such as ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo and Sora. Free plan with 10 prompts a day, no account needed.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
