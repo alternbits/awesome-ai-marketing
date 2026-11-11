@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[HoneyVid](https://honeyvid.ai)**  
+  AI video app for short-form content: put a person, pet or character from one photo into a trending video, or generate videos and images with Kling, Veo and Seedance. Paid credits, price shown before each video.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
