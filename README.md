@@ -56,7 +56,7 @@ By **[Altern](https://altern.ai)**
 ## Lead Generation
 
 - **[Revenue Scout](https://revenuescout.ai/)**  
-  Uses AI to find sales leads on seven social platforms. You review and post reply drafts yourself. Free tier and paid plans.
+  Sales Prospecting Assistant that uses AI to find sales leads on seven social platforms. You review and post reply drafts yourself. Free tier and paid plans.
 
 - **[Clearbit](https://www.clearbit.com)**  
   Provides real-time data intelligence to enrich leads, segment customers, and find high-potential prospects through AI-powered data insights.
