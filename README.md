@@ -165,8 +165,6 @@ By **[Altern](https://altern.ai)**
 - **[AIGrowthRank](https://aigrowthrank.com/en/)**  
   Bilingual (EN/FR) rankings of AI tools for audience growth and client acquisition, with prices read on official pages, plus reviewed agent skills for marketing.
 
-
-
 ## Contributing
 
 Contributions to this repository are welcome! If you have a tool or resource related to AI marketing, feel free to open a pull request. Here are some ways you can contribute:
