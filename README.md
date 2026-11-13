@@ -162,6 +162,8 @@ By **[Altern](https://altern.ai)**
 - [Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation) - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
   A collection of curated AI tools for various use cases, including marketing, business, and technology.
+- **[AIGrowthRank](https://aigrowthrank.com/en/)**  
+  Bilingual (EN/FR) rankings of AI tools for audience growth and client acquisition, with prices read on official pages, plus reviewed agent skills for marketing.
 
 ## Contributing
 
