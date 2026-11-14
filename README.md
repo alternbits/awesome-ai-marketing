@@ -138,6 +138,9 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[zaDojo](https://zadojo.com)**  
+  SEO and AI search visibility platform with an MCP server for AI agents: free Google Search Console and Google Analytics data, plus pay-as-you-go keyword research, rank tracking and brand tracking in ChatGPT, Gemini, Perplexity and Google AI Overviews.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
