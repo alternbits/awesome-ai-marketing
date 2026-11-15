@@ -70,6 +70,9 @@ By **[Altern](https://altern.ai)**
 - **[UpLead](https://www.uplead.com)**  
   A B2B lead generation platform with AI-powered data search to help marketers generate high-quality leads.
 
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)**  
+  A remote MCP server and live-music venue directory that helps touring artists and booking agents discover verified venues and booking contacts across the US and British Columbia.
+
 ## Email Marketing
 
 - **[Seventh Sense](https://www.theseventhsense.com)**  
