@@ -27,6 +27,9 @@ By **[Altern](https://altern.ai)**
 - **[Copy.ai](https://www.copy.ai)**  
   A creative assistant that generates marketing copy for blogs, emails, and advertisements using artificial intelligence.
 
+- **[Pavo AI](https://pavoai.app/)**  
+  An AI video generator and image-to-video maker for short drama and social clips: write a scene, generate the shots, and keep the same cast consistent across clips. Free tier to start.
+
 - **[Writesonic](https://www.writesonic.com)**  
   AI writing assistant that generates high-quality marketing content for various needs, including blog posts, landing pages, and more.
 
