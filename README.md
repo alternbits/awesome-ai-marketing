@@ -104,6 +104,9 @@ By **[Altern](https://altern.ai)**
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
 
+- **[POSTOLA AI](https://www.postola.app)**  
+  Turns one product photo into short video ads and AI presenter videos, writes captions and posts them to Instagram, Facebook and YouTube.
+
 ## Analytics
 
 - **[PaveAI](https://www.paveai.com)**  
