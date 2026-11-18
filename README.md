@@ -53,6 +53,9 @@ By **[Altern](https://altern.ai)**
 - **[Algolia](https://www.algolia.com)**  
   An AI-driven search and discovery API for developers that enhances product and content search experiences for users.
 
+- **[Markin](https://markin.ai)**  
+  AI agents for D2C growth across customer acquisition, lifecycle and CRO: finds revenue opportunities in customer data and runs experiments 24/7 to grow ARPU.
+
 ## Lead Generation
 
 - **[Clearbit](https://www.clearbit.com)**  
