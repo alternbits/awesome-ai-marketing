@@ -56,7 +56,7 @@ By **[Altern](https://altern.ai)**
 ## Lead Generation
 
 - **[Revenue Scout](https://revenuescout.ai/)**  
-  Sales Prospecting Assistant that uses AI to find sales leads on seven social platforms. You review and post reply drafts yourself. Free tier and paid plans.
+  Agentic Coworker for sales prospecting that finds leads across seven social platforms. Scout uses reply requests and related search results to explore better search phrases. You review and post social replies. One-time free credits and paid plans.
 
 - **[Clearbit](https://www.clearbit.com)**  
   Provides real-time data intelligence to enrich leads, segment customers, and find high-potential prospects through AI-powered data insights.
