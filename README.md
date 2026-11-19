@@ -36,6 +36,9 @@ By **[Altern](https://altern.ai)**
 - **[Ink for All](https://inkforall.com)**  
   An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
+- **[Wavegrain](https://wavegrain.com/?utm_source=awesome-ai-marketing)**  
+  Makes curated TikTok slideshows and Instagram carousels for your brand in its own voice with your photos, then schedules and posts them. A hosted MCP server lets AI agents do the same.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutiny.com)**  
