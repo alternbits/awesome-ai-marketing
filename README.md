@@ -104,6 +104,9 @@ By **[Altern](https://altern.ai)**
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
 
+- **[Variafy](https://www.variafy.com)**  
+  Connects Claude, ChatGPT and other AI assistants to Meta (Facebook and Instagram) ad accounts through MCP: ad results in plain language, CRM payments matched to ads, account alerts, and ad changes applied only after the user confirms a preview.
+
 ## Analytics
 
 - **[PaveAI](https://www.paveai.com)**  
