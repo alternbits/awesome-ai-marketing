@@ -141,7 +141,6 @@ By **[Altern](https://altern.ai)**
 - **[AskAiRank](https://askairank.com)**  
   Tracks how often ChatGPT, Claude, Perplexity, Gemini and other AI assistants mention a brand in their answers, where it ranks and which competitors appear instead.
 
-
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
