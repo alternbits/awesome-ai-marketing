@@ -138,6 +138,10 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[AskAiRank](https://askairank.com)**  
+  Tracks how often ChatGPT, Claude, Perplexity, Gemini and other AI assistants mention a brand in their answers, where it ranks and which competitors appear instead.
+
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
