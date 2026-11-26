@@ -70,6 +70,9 @@ By **[Altern](https://altern.ai)**
 - **[UpLead](https://www.uplead.com)**  
   A B2B lead generation platform with AI-powered data search to help marketers generate high-quality leads.
 
+- **[SoloRiff](https://soloriff.com)**  
+  AI sales agent that finds B2B buyers from a company website, verifies their addresses, writes to each lead, answers replies and books meetings.
+
 ## Email Marketing
 
 - **[Seventh Sense](https://www.theseventhsense.com)**  
