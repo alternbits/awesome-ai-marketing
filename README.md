@@ -87,6 +87,9 @@ By **[Altern](https://altern.ai)**
 - **[Moosend](https://www.moosend.com)**  
   AI-powered email marketing tool designed for creating and automating campaigns to increase engagement and conversions.
 
+- **[Poptin MCP](https://www.poptin.com/mcp/)**  
+  Connect AI assistants to draft email campaigns for opted-in subscribers, compare popup and signup form performance, and build audience segments.
+
 ## Social Media Advertising
 
 - **[Smartly.io](https://www.smartly.io)**  
