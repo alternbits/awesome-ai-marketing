@@ -121,6 +121,9 @@ By **[Altern](https://altern.ai)**
 - **[Hotjar](https://www.hotjar.com)**  
   AI-driven user behavior analytics tool that provides insights into how users interact with your website through heatmaps, session recordings, and surveys.
 
+- **[Qonvert Marketing AI](https://qonvert.ai/services/google-ads?utm_source=awesome_ai_marketing&utm_medium=directory&utm_campaign=google_ads_mcp)**\
+  Reviews spend, recorded conversions, and search terms in existing Google Ads campaigns and proposes changes for approval. Qonvert Connect gives compatible assistants access to authorized marketing sources via MCP.
+
 ## SEO & Search Optimization
 
 - **[Surfer](https://www.surferseo.com)**  
