@@ -138,6 +138,12 @@ By **[Altern](https://altern.ai)**
 - **[Moz](https://www.moz.com)**  
   An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
 
+- **[The SEO Agent](https://www.theseoagent.ai/)**  
+  AI SEO platform that runs technical site audits, plans keyword roadmaps, and publishes search-optimized articles directly to WordPress, Shopify, Webflow, and custom webhooks.
+
+- **[AI Mention Tracking](https://aimentiontracking.com/)**  
+  Free resource and tracker for auditing how often your brand is mentioned and cited across AI search engines.
+
 ## Customer Support
 
 - **[Ada](https://www.ada.support)**  
